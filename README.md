@@ -1,4 +1,4 @@
-# Embedded-System-Project
+# Embedded System Project
 ## “Embedded Fitness” project
 ### Authors: Jaeha Huh, Chris Gao
 
