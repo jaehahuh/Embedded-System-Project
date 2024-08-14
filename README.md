@@ -2,8 +2,8 @@
 ## “Embedded Fitness” project
 ### Authors: Jaeha Huh, Chris Gao
 
-Program software: arduino 
-Program language: C++
+### Framework: arduino 
+### Programming language: C++
 
 **Description:**
 
